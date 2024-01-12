@@ -1,7 +1,7 @@
 from Algorithm.checking import cek_kalimat
 
 import sys
-sys.path.append(r"C:\Users\Lutviana\AppData\Local\Programs\Python\Python310\Lib\site-packages\streamlit")
+sys.path.append(r"C:\Users\Hani\AppData\Local\Programs\Python\Python310\Lib\site-packages\streamlit")
 import streamlit as st
 
 def runStreamlit():
